@@ -27,8 +27,8 @@ openssh-server
 software-properties-common
 sudo
 containerd.io
-docker-ce=5:20.10.8~3-0~debian-buster
-docker-ce-cli=5:20.10.8~3-0~debian-buster
+docker-ce
+docker-ce-cli
 open-iscsi
 nfs-common
 nvme-cli

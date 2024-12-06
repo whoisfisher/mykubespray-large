@@ -27,9 +27,9 @@ spec:
       version: v3.4.13
     containerRuntimes:
       - type: docker
-        version: 24.0.9
+        version: 20.10.8
       - type: containerd
-        version: 1.7.13
+        version: 1.6.4
     calicoctl:
       version: v3.23.2
     crictl:
@@ -37,7 +37,7 @@ spec:
     docker-registry:
       version: "2"
     harbor:
-      version: v2.10.1
+      version: v2.5.3
     docker-compose:
       version: v2.26.1
   images:
